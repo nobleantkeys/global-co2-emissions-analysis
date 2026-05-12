@@ -75,7 +75,7 @@ The dashboard includes:
 
 **Maria**  
 Aspiring Data Analyst  
-[LinkedIn](www.linkedin.com/in/maria-clara-formiga-150486228) • [GitHub](https://github.com/nobleantkeys)
+[LinkedIn](https://linkedin.com/in/maria-clara-formiga-150486228) • [GitHub](https://github.com/nobleantkeys)
 
 ---
 
