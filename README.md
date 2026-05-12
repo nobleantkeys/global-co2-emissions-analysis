@@ -13,7 +13,7 @@ This project analyzes global CO2 emissions data from **Our World in Data**, cove
 
 ## 🛠️ Tools Used
 
-- **SQL Server (SSMS)** — data cleaning, filtering and analysis
+- **SQL Server (SSMS)** — filtering and analysis
 - **Power BI** — interactive dashboard and visualizations
 
 ---
